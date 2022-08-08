@@ -1,2 +1,2 @@
-# Kotlin-BaekJoon
-코틀린으로 백준문제 풀기
+# Kotlin-Algorithm
+코틀린으로 알고리즘 문제 풀기
